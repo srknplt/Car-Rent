@@ -1,0 +1,16 @@
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csprojAssemblyReference.cache
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmAnaSayfa.resources
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmMusteriEkle.resources
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmMusteriListele.resources
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmAracKayit.resources
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmAracListele.resources
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmSozlesme.resources
+C:\Users\Serkan\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmSatış.resources
